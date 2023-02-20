@@ -77,9 +77,9 @@ Following requirements should be met:
 
 These are the different controllers that are used to manage the data in backend.
 
-<img alt = "Home Page" src = "https://github.com/Instantgaming2356/JAVAFSD-Project04/blob/master/Images/Screenshot%20(2621).png">
+<img alt = "Home Page" src = "https://github.com/abhishekraj909/kitchenStory/blob/main/src/assets/images/KitchenStory.jpg">
 
-<img alt = "Checkout Page" src = "https://github.com/Instantgaming2356/JAVAFSD-Project04/blob/master/Images/Screenshot%20(2612).png">
+
 
 1. User can view all the available food items and can select them for purchasing which will be stores in a local cart page.
 
