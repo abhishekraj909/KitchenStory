@@ -1,0 +1,17 @@
+footer{
+    position: relative;
+    background: #fef9f8; /* white */
+    padding: 0;
+    border-bottom: 1px solid #f8ad9d; /* #e72929 */
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  min-height: 100vh; /* Set a minimum height of 100% viewport height */
+  padding-bottom: 50px; /* Add padding at the bottom for the footer */
+}
+
