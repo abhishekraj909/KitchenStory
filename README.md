@@ -1,4 +1,4 @@
-# Kitchenstory
+# KitchenStory
 ## Table of Contents
 
 - [General Info](#General-info)
